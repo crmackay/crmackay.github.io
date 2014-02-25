@@ -9,12 +9,11 @@ title: one more time
 I am trying to figure our if I want a blog or just a website.
 
 advantages to blogging:
-
-- it's fun
-- everyone's doing it
+* it's fun
+* everyone's doing it
 
 disadvantages to blogging:
 
-- it takes time
+* it takes time
 
 This is a sample new blog post
