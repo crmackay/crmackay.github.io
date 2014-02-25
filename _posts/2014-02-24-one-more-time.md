@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: one more time
 ---
 
 ## This is a sample post
